@@ -1,3 +1,4 @@
+
 <div align = "center">
   
   <h1>Oi, eu sou a Kay!</h1>
@@ -10,7 +11,8 @@
   ##
 
   <div>
-    <i class="devicon-python-plain"></i>
+    <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
+    <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg"/>
     <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg"/>
     <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg"/>
     <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
