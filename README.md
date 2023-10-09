@@ -1,7 +1,7 @@
 <h1 align="center">Oie, eu sou a Kayara</h1>
 <h2 align="center">Desenvolvedora de software Full Stack</h2>
 <div align="center">
-  <img height= "300" src="https://kayara-portfolio.vercel.app/_next/image?url=%2Fgirlcode.png&w=640&q=75" />
+  <img height= "300" src="/girlcode.png" />
 </div>
 <div align="center">
 	<a href="https://kayara-portfolio.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-555555?style=for-the-badge&logo=googlebard&logoColor=white" alt="Portfolio"></a>
